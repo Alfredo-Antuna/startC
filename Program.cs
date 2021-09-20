@@ -7,6 +7,7 @@ namespace startC
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Alfredo!");
+            Console.WriteLine("Hello Amir!");
         }
     }
 }
